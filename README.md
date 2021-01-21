@@ -25,7 +25,7 @@
 *Instructions and examples for use:* 
 * When you click the menu circle in the top right it will reveal the menu at the bottom of the page. When you close it, it will rotate back to hide the menu.
 
-<img src="https://tomarapetty.github.io/Rotating-Navigation/">
+<img src="images/rotating-nav.gif">
 
 ## License 
 * Built under the MIT licence.
